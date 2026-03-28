@@ -29,7 +29,7 @@ An automated trading bot for [pump.fun](https://pump.fun) built on the Solana bl
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/keron-2000fz47/congenial-happiness.git
+git clone https://github.com/angelfaceburgh49ez3/pumpfun-trading-bot/git
 cd congenial-happiness
 
 # 2. Install dependencies
